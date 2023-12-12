@@ -13,7 +13,7 @@ rdkit=2021.09.2
 networkx=2.6.3
 pandas=1.3.4
 
-##Data
+Data
 You can download Davis and KIBA datasets from the following link:
 http://staff.cs.utu.fi/~aatapa/data/DrugTarget/
 
